@@ -1,2 +1,3 @@
 django
 beautifulsoup4
+graphene-django

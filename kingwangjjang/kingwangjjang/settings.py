@@ -46,6 +46,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    "graphene_django" # Graph ql
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
